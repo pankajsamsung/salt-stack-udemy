@@ -1,3 +1,3 @@
-php7.0-fpm:
+php7-fpm:
   pkg.installed:
-    - name: php7.0-fpm
+    - name: php7-fpm

@@ -1,3 +1,3 @@
-php7.0-curl:
+php7-curl:
   pkg.installed:
-    - name: php7.0-curl
+    - name: php7-curl
