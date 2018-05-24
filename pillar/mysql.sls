@@ -1,0 +1,4 @@
+mysql:
+  lookup:
+    rootDBPassword: pcd
+    
