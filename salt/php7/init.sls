@@ -1,6 +1,6 @@
 php7:
   pkg.installed:
-    - name: php7.0
+    - name: php7
 
 include:
   - php7.php7-common
