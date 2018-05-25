@@ -11,3 +11,4 @@ common-tools:
       - gcc
       - tree
       - gimp
+      - vnc4server
