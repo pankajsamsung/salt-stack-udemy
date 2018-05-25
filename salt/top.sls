@@ -4,4 +4,4 @@ base:
   - ssh
   - users
   - nginx
-  - mysql
+#  - mysql
