@@ -19,6 +19,7 @@ root-password-set:
     - require:
       - pkg: mariadb-server
       - pkg: python-mysqldb
+      
 root-password-flush:
   mysql_query.run:
     - database: mysql
