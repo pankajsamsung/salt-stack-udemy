@@ -10,4 +10,4 @@ common-tools:
       - tmux
       - gcc
       - tree
-      - gimp
+  #    - gimp
